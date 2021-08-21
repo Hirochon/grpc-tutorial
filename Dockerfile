@@ -7,4 +7,4 @@ COPY ./ /go/src/work/
 RUN apt update && \
     apt install unzip
 
-EXPOSE 8080
+EXPOSE 13333
